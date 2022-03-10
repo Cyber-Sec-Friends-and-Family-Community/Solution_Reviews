@@ -56,133 +56,143 @@ Feel free to add new categories or update the structure.
 ------------------------
 # Application Security
 
-[Application Security Summary Page](Vendor Reviews/Application Security/application_security_summary_page.md)
+[Application Security Summary Page](vendor_reviews/application_security/application_security_summary_page.md)
 
 SAST
 -------------
-* [example](Vendor Reviews/Application Security/SAST/example.md)
+* [example](vendor_reviews/application_security/sast/example.md)
 
 
 DAST
 -------------
-* [example](Vendor Reviews/Application Security/DAST/example.md)
+* [example](vendor_reviews/application_security/dast/example.md)
 
 
 SCA
 -------------
-* [example](Vendor Reviews/Application Security/SCA/example.md)
+* [example](vendor_reviews/application_security/sca/example.md)
 
 
 ------------------------
 # Web / Mobile App Security
 
-[Web / Mobile App Security Summary Page](Vendor Reviews/Web and Mobile App Security/web_mobile_summary_page.md)
+[Web / Mobile App Security Summary Page](vendor_reviews/web_and_mobile_app_security/web_mobile_summary_page.md)
 
 
 Bug Bounty Platform
 --------------------------------
-* [example](Vendor Reviews/Web and Mobile App Security/Bug Bounty Platform/example.md)
+* [example](vendor_reviews/web_and_mobile_app_security/bug_bounty_platform/example.md)
 
 
 Bot Protection
 --------------------------------
-* [example](Vendor Reviews/Web and Mobile App Security/Bot Protection/example.md)
+* [example](vendor_reviews/web_and_mobile_app_security/bot_protection/example.md)
 
 
 WAF
 --------------------------------
-* [example](Vendor Reviews/Web and Mobile App Security/WAF/example.md)
+* [example](vendor_reviews/web_and_mobile_app_security/waf/example.md)
 
 
 API Security
 -------------
-* [example](Vendor Reviews/Web and Mobile App Security/API Security/example.md)
+* [example](vendor_reviews/web_and_mobile_app_security/api_security/example.md)
 
 
 
 ------------------------
 # Cloud Infrastructure
 
-[Cloud Infrastructure](Vendor Reviews/Cloud Infrastructure/cloud infrastructure_summary_page.md)
+[Cloud Infrastructure Summary Page](vendor_reviews/cloud_infrastructure/cloud infrastructure_summary_page.md)
 
 IAC Scanning
 -------------
-* [example](Vendor Reviews/Cloud Infrastructure/IAC Scanning/example.md)
+* [example](vendor_reviews/cloud_infrastructure/iac_scanning/example.md)
 
 
 Cloud Security Posture Management
 -------------
-* [example](Vendor Reviews/Cloud Infrastructure/Cloud Security Posture Management/example.md)
+* [example](vendor_reviews/cloud_infrastructure/cloud_security_posture_management/example.md)
 
 
 ------------------------
 # Vulnerability Management
 
-[Vulnerability Management](Vendor Reviews/Vulnerability Management/vulnerability management_summary_page.md)
+[Vulnerability Management Summary Page](vendor_reviews/vulnerability_management/vulnerability_management_summary_page.md)
 
 OSINT
 ---------------------------
-* [example](Vendor Reviews/Vulnerability Management/OSINT/example.md)
+* [example](vendor_reviews/vulnerability_management/osint/example.md)
 
 
 Vulnerability Management
 -------------
-* [example](Vendor Reviews/Vulnerability Management/Vulnerability Management/example.md)
+* [example](vendor_reviews/vulnerability_management/vulnerability_management/example.md)
 
 
 ------------------------
 # Endpoint Protection
 
+[Endpoint Protection Summary Page](vendor_reviews/endpoint_protection/endpoint_protection_summary_page.md)
+
 EDR
 --------------------------------
-* example
+* [EDR](vendor_reviews/endpoint_protection/edr/example.md)
 
 ------------------------
 # Orchestration
 
+[Orchestration Summary Page](vendor_reviews/orchestration/orchestration_summary_page.md)
+
 Workflow and Automation
 -----------------------
-* example
+* [workflow_automation](vendor_reviews/orchestration/workflow_automation/example.md)
 
 
 ------------------------
 # Security Monitoring
 
+[Security Monitoring Summary Page](vendor_reviews/security_monitoring/security_monitoring_summary_page.md)
+
 Threat Intel and Feeds
 -----------------------
-* example
+* [Threat Intel and Feeds](vendor_reviews/security_monitoring/threat_intel_and_feeds/example.md)
 
 
 Log Store
 ----------------------
-* example
+* [Log Store](vendor_reviews/security_monitoring/log_store/example.md)
 
 
 SIEM
 ------------------------------------------
-* example
+* [SIEM](vendor_reviews/security_monitoring/siem/example.md)
 
 
 Machine Learning
 -----------------------
-* example
-
+* [Machine Learning](vendor_reviews/security_monitoring/machine_learning/example.md)
 
 
 ------------------------
 # Network Security and Intelligence
 
+[Network Security and Intelligence Summary Page](vendor_reviews/network_security_and_intelligence/network_security_and_intelligence_summary_page.md)
+
 Placeholder1
 ------------------------------------------
-* example
+* [example](vendor_reviews/network_security_and_intelligence/example/example.md)
 
 
 ------------------------
 # Identity and Access Management
 
+[Identity and Access Management Summary Page](vendor_reviews/identity_and_access_management/identity_and_access_management_summary_page.md)
+
+
 Placeholder2
 ------------------------------------------
-* example
+* [example](vendor_reviews/identity_and_access_management/example/example.md)
 
 
 ------------------------

@@ -18,7 +18,7 @@ API Security
 |[insert product name]|[insert]|[insert]|
 
 ### Completed Reviews
-* [example](API Security/example.md)
+* [example](api_security/example.md)
 
 
 Bot Protection
@@ -32,7 +32,7 @@ Bot Protection
 |[insert product name]|[insert]|[insert]|
 
 ### Completed Reviews
-* [example](Bot Protection/example.md)
+* [example](bot_protection/example.md)
 
 
 Bug Bounty Platform
@@ -46,7 +46,7 @@ Bug Bounty Platform
 |[insert product name]|[insert]|[insert]|
 
 ### Completed Reviews
-* [example](Bug Bounty Platform/example.md)
+* [example](bug_bounty_platform/example.md)
 
 
 WAF
@@ -60,4 +60,4 @@ WAF
 |[insert product name]|[insert]|[insert]|
 
 ### Completed Reviews
-* [example](WAF/example.md)
+* [example](waf/example.md)

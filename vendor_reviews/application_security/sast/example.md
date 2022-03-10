@@ -1,4 +1,4 @@
-# [insert solution name ] - Product Review
+# example - Product Review
 
 **Vendor:** [insert]
 

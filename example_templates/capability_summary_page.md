@@ -16,7 +16,7 @@ capability1
 |[insert product name]|[insert]|[insert]|
 
 ## Completed Reviews
-* [example](?example.md)
+* [example](capability1/example.md)
 
 
 capability2
@@ -30,4 +30,4 @@ capability2
 |[insert product name]|[insert]|[insert]|
 
 ### Completed Reviews
-* [example](?example.md)
+* [example](capability2/example.md)
