@@ -1,12 +1,13 @@
-# Application Security Summary
+# Web and Mobile App Security Summary
 
 ##Capabilities
-* [DAST](#dast)
-* [SAST](#sast)
-* [SCA](#sca)
+* [API Security](#API Security)
+* [Bot Protection](#Bot Protection)
+* [Bug Bounty Platforms](#Bug bounty platforms)
+* [WAF](#WAF)
 
 
-DAST
+API Security
 -------------
 ### Reviewed product scores
 
@@ -17,10 +18,10 @@ DAST
 |[insert product name]|[insert]|[insert]|
 
 ### Completed Reviews
-* [example](DAST/example.md)
+* [example](API Security/example.md)
 
 
-SAST
+Bot Protection
 -------------
 ### Reviewed product scores
 
@@ -31,10 +32,10 @@ SAST
 |[insert product name]|[insert]|[insert]|
 
 ### Completed Reviews
-* [example](SAST/example.md)
+* [example](Bot Protection/example.md)
 
 
-SCA
+Bug Bounty Platform
 -------------
 ### Reviewed product scores
 
@@ -45,4 +46,18 @@ SCA
 |[insert product name]|[insert]|[insert]|
 
 ### Completed Reviews
-* [example](SCA/example.md)
+* [example](Bug Bounty Platform/example.md)
+
+
+WAF
+-------------
+### Reviewed product scores
+
+| Product Name | Overall Score (Total from review) | Comments |
+|------|-----------------|-------|
+|[insert product name]|[insert]|[insert]|
+|[insert product name]|[insert]|[insert]|
+|[insert product name]|[insert]|[insert]|
+
+### Completed Reviews
+* [example](WAF/example.md)

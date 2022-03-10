@@ -56,69 +56,78 @@ Feel free to add new categories or update the structure.
 ------------------------
 # Application Security
 
+[Application Security Summary Page](Vendor Reviews/Application Security/application_security_summary_page.md)
+
 SAST
 -------------
-* [example](?Vendor Reviews/Application Security/SAST/example.md)
+* [example](Vendor Reviews/Application Security/SAST/example.md)
 
 
 DAST
 -------------
-* example
+* [example](Vendor Reviews/Application Security/DAST/example.md)
 
 
 SCA
 -------------
-* example
+* [example](Vendor Reviews/Application Security/SCA/example.md)
 
 
 ------------------------
 # Web / Mobile App Security
 
-Bug Bounty Platforms
+[Web / Mobile App Security Summary Page](Vendor Reviews/Web and Mobile App Security/web_mobile_summary_page.md)
+
+
+Bug Bounty Platform
 --------------------------------
-* example
+* [example](Vendor Reviews/Web and Mobile App Security/Bug Bounty Platform/example.md)
 
 
 Bot Protection
 --------------------------------
-* example
+* [example](Vendor Reviews/Web and Mobile App Security/Bot Protection/example.md)
 
 
 WAF
 --------------------------------
-* example
+* [example](Vendor Reviews/Web and Mobile App Security/WAF/example.md)
 
 
 API Security
 -------------
-* example
+* [example](Vendor Reviews/Web and Mobile App Security/API Security/example.md)
 
 
 
 ------------------------
 # Cloud Infrastructure
 
+[Cloud Infrastructure](Vendor Reviews/Cloud Infrastructure/cloud infrastructure_summary_page.md)
+
 IAC Scanning
 -------------
-* example
+* [example](Vendor Reviews/Cloud Infrastructure/IAC Scanning/example.md)
 
 
 Cloud Security Posture Management
 -------------
-* example
+* [example](Vendor Reviews/Cloud Infrastructure/Cloud Security Posture Management/example.md)
 
 
 ------------------------
 # Vulnerability Management
 
+[Vulnerability Management](Vendor Reviews/Vulnerability Management/vulnerability management_summary_page.md)
+
 OSINT
 ---------------------------
-* example
+* [example](Vendor Reviews/Vulnerability Management/OSINT/example.md)
 
 
 Vulnerability Management
 -------------
-* example
+* [example](Vendor Reviews/Vulnerability Management/Vulnerability Management/example.md)
 
 
 ------------------------

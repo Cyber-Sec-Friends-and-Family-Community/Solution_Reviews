@@ -1,10 +1,10 @@
-# Endpoint Protection Summary
+# Orchestration Summary
 
 ##Capabilities
-* [EDR](#edr)
+* [Workflow Automation](#Workflow Automation)
 
 
-EDR
+Workflow Automation
 -------------
 ### Reviewed product scores
 
@@ -15,4 +15,4 @@ EDR
 |[insert product name]|[insert]|[insert]|
 
 ### Completed Reviews
-* [example](edr/example.md)
+* [example](Workflow Automation/example.md)
