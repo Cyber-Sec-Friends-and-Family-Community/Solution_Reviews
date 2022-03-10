@@ -1,0 +1,33 @@
+# [insert capability grouping name] Summary
+
+##Capabilities
+* [capability1](#capability1)
+* [capability2](#capability2)
+
+
+capability1
+-------------
+## Reviewed product scores
+
+| Product Name | Overall Score (Total from review) | Comments |
+|------|-----------------|-------|
+|[insert product name]|[insert]|[insert]|
+|[insert product name]|[insert]|[insert]|
+|[insert product name]|[insert]|[insert]|
+
+## Completed Reviews
+* [example](?example.md)
+
+
+capability2
+-------------
+### Reviewed product scores
+
+| Product Name | Overall Score (Total from review) | Comments |
+|------|-----------------|-------|
+|[insert product name]|[insert]|[insert]|
+|[insert product name]|[insert]|[insert]|
+|[insert product name]|[insert]|[insert]|
+
+### Completed Reviews
+* [example](?example.md)
