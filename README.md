@@ -13,20 +13,20 @@ Feel free to add new categories or update the structure.
 
 
 #### Web / Mobile App Security
-* [Bug Bounty Platform](#Bug Bounty Platform)
-* [Bot Protection](#Bot Protection)
+* [Bug Bounty Platform](#bug-bounty-platform)
+* [Bot Protection](#bot-protection)
 * [WAF](#waf)
-* [API Security](#API Security)
+* [API Security](#api-security)
 
 
 #### Cloud Infrastructure
-* [IAC Scanning](#IAC Scanning)
-* [Cloud Security Posture Management](#Cloud Security Posture Management)
+* [IAC Scanning](#iac-scanning)
+* [Cloud Security Posture Management](#cloud-security-posture-management)
 
 
 #### Vulnerability Management
 * [OSINT](#osint)
-* [Vulnerability Discovery](#Vulnerability Discovery)
+* [Vulnerability Discovery](#vulnerability-discovery)
 
 
 #### Endpoint Protection
@@ -34,7 +34,7 @@ Feel free to add new categories or update the structure.
 
 
 #### Orchestration
-* [Workflow and Automation](#Workflow and Automation)
+* [Workflow and Automation](#workflow-and-automation)
 
 
 #### Security Monitoring
