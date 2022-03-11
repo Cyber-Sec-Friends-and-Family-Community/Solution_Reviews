@@ -14,9 +14,9 @@ Feel free to add new categories or update the structure.
 
 #### Web / Mobile App Security
 * [Bug Bounty Platform](#Bug Bounty Platform)
-* [Bot Protection](#bot-protection)
+* [Bot Protection](#Bot Protection)
 * [WAF](#waf)
-* [API Security](#api-security)
+* [API Security](#API Security)
 
 
 #### Cloud Infrastructure
@@ -50,7 +50,6 @@ Feel free to add new categories or update the structure.
 
 #### Identity and Access Management
 * [Placeholder2](#placeholder2)
-
 
 
 ------------------------
@@ -146,7 +145,7 @@ EDR
 
 Workflow and Automation
 -----------------------
-* [workflow_automation](vendor_reviews/orchestration/workflow_automation/example.md)
+* [Workflow Automation](vendor_reviews/orchestration/workflow_automation/example.md)
 
 
 ------------------------
