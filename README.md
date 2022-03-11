@@ -13,20 +13,20 @@ Feel free to add new categories or update the structure.
 
 
 #### Web / Mobile App Security
-* [Bug Bounty Platforms](#bug-bounty-platforms)
+* [Bug Bounty Platform](#Bug Bounty Platform)
 * [Bot Protection](#bot-protection)
 * [WAF](#waf)
 * [API Security](#api-security)
 
 
 #### Cloud Infrastructure
-* [IAC Scanning](#iac-scanning)
-* [Cloud Security Posture Management](#cloud-security-posture-management)
+* [IAC Scanning](#IAC Scanning)
+* [Cloud Security Posture Management](#Cloud Security Posture Management)
 
 
 #### Vulnerability Management
 * [OSINT](#osint)
-* [Vulnerability Management](#vuln-management)
+* [Vulnerability Discovery](#Vulnerability Discovery)
 
 
 #### Endpoint Protection
@@ -34,7 +34,7 @@ Feel free to add new categories or update the structure.
 
 
 #### Orchestration
-* [Workflow and Automation](#workflow-automation)
+* [Workflow and Automation](#Workflow and Automation)
 
 
 #### Security Monitoring
@@ -45,11 +45,11 @@ Feel free to add new categories or update the structure.
 
 
 #### Network Security and Intelligence
-* [Placeholder1](#placeholder-1)
+* [Placeholder1](#placeholder1)
 
 
 #### Identity and Access Management
-* [Placeholder2](#placeholder-2)
+* [Placeholder2](#placeholder2)
 
 
 
@@ -103,7 +103,7 @@ API Security
 ------------------------
 # Cloud Infrastructure
 
-[Cloud Infrastructure Summary Page](vendor_reviews/cloud_infrastructure/cloud infrastructure_summary_page.md)
+[Cloud Infrastructure Summary Page](vendor_reviews/cloud_infrastructure/cloud_infrastructure_summary_page.md)
 
 IAC Scanning
 -------------
@@ -125,9 +125,9 @@ OSINT
 * [example](vendor_reviews/vulnerability_management/osint/example.md)
 
 
-Vulnerability Management
+Vulnerability Discovery
 -------------
-* [example](vendor_reviews/vulnerability_management/vulnerability_management/example.md)
+* [example](vendor_reviews/vulnerability_management/vulnerability_discovery/example.md)
 
 
 ------------------------
@@ -177,22 +177,22 @@ Machine Learning
 ------------------------
 # Network Security and Intelligence
 
-[Network Security and Intelligence Summary Page](vendor_reviews/network_security_and_intelligence/network_security_and_intelligence_summary_page.md)
+[Network Security and Intelligence Summary Page](vendor_reviews/network_security_and_intelligence/network_security_intelligence_summary_page.md)
 
 Placeholder1
 ------------------------------------------
-* [example](vendor_reviews/network_security_and_intelligence/example/example.md)
+* [example](vendor_reviews/network_security_and_intelligence/placeholder1/example.md)
 
 
 ------------------------
 # Identity and Access Management
 
-[Identity and Access Management Summary Page](vendor_reviews/identity_and_access_management/identity_and_access_management_summary_page.md)
+[Identity and Access Management Summary Page](vendor_reviews/identity_and_access_management/identity_access_management_summary_page.md)
 
 
 Placeholder2
 ------------------------------------------
-* [example](vendor_reviews/identity_and_access_management/example/example.md)
+* [example](vendor_reviews/identity_and_access_management/placeholder2/example.md)
 
 
 ------------------------
