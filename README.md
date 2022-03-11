@@ -1,4 +1,4 @@
-Solution_Reviews
+Solution Reviews
 ===============
 
 Repository for tooling reviews and recommendations.
